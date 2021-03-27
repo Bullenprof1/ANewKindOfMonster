@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsterTypes>
+	<monsterType name="Dragon">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Dragon"/>
+			<doc url="https://en.wikipedia.org/wiki/Wyvern_(Dungeons_%26_Dragons)"/>
+		</docs>
+		<attributes>
+			<attribute name="can-fly" value="true"/>
+			<attribute name="projects-lethal-energy" value="true"/>
+			<attribute name="fluency" value="high"/>
+			<attribute name="size" value="huge"/>
+			<attribute name="num-legs" value="4+"/>
+			<attribute name="num-arms" value="0"/>
+		</attributes>
+	</monsterType>
+	
+	<monsterType name="Vampire">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Vampire"/>
+		</docs>
+		<attributes>
+			<attribute name="was-human-once" value="true"/>
+			<attribute name="undead" value="true"/>
+			<attribute name="can-fly" value="true"/>
+			<attribute name="fluency" value="high"/>
+			<attribute size="human"/>
+			<attribute name="num-legs" value="2"/>
+			<attribute name="num-arms" value="2"/>
+			<attribute name="transforms" value="bat"/>
+		</attributes>
+	</monsterType>
+
+	<monsterType name="Werewolf">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Werewolf">
+			<doc url="https://en.wikipedia.org/wiki/Lycanthrope_(Dungeons_%26_Dragons)">
+		</docs>
+		<attributes>
+			<attribute name="was-human-once" value="true">
+			<attribute name="num-legs" value="2"/>
+			<attribute name="num-arms" value="2"/>
+			<attribute name="transforms" value="wolf"/>
+			<attribute name="fluency" value="high"/>
+			<attribute size="human"/>
+		</attributes>
+	</monsterType>
+
+	<monsterType name="Zombie">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Zombie">
+		</docs>
+		<attributes>
+			<attribute name="was-human-once" value="true">
+			<attribute name="num-legs" value="2"/>
+			<attribute name="num-arms" value="2"/>
+			<attribute name="fluency" value="low"/>
+			<attribute size="human"/>
+			<attribute name="undead" value="true"/>
+		</attributes>
+	</monsterType>
+
+	<monsterType name="Mummy">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Mummy_(monster)">
+		</docs>
+		<attributes>
+			<attribute name="was-human-once" value="true">
+			<attribute name="num-legs" value="2"/>
+			<attribute name="num-arms" value="2"/>
+			<attribute name="fluency" value="low"/>
+			<attribute size="human"/>
+			<attribute name="undead" value="true"/>
+		</attributes>
+	</monsterType>
+
+	<monsterType name="Troll">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Troll_(Dungeons_%26_Dragons)">
+		</docs>
+		<attributes>
+			<attribute name="num-legs" value="2"/>
+			<attribute name="num-arms" value="2"/>
+			<attribute name="fluency" value="low"/>
+			<attribute size="large"/>
+		</attributes>
+	</monsterType>
+	
+	<monsterType name="Giant">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Giant_(Dungeons_%26_Dragons)">
+			<doc url="https://en.wikipedia.org/wiki/Giant">
+			<doc url="https://en.wikipedia.org/wiki/Giant_(Dungeons_%26_Dragons)">
+		</docs>
+		<attributes>
+			<attribute name="" value="">
+		</attributes>
+	</monsterType>
+	
+	<monsterType name="The Loch Ness Monster">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Loch_Ness_Monster">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Bigfoot">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Bigfoot">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Yeti">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Yeti">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="The Thing">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/The_Thing_(1982_film)">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="The Blob">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/The_Blob">
+			<doc url="https://en.wikipedia.org/wiki/Gray_ooze">
+			<doc url="https://en.wikipedia.org/wiki/Gelatinous_cube">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Godzilla">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Godzilla">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Xenomorph">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Alien_(creature_in_Alien_franchise)">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Satan">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Satan">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Giant Ants">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Them!_(1954_film)">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="King Kong">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/King_Kong">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Dinosaur">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Dinosaur_(Dungeons_%26_Dragons)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Skeleton">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Skeleton_(undead)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Griffon">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Griffin">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Hippogryph">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Hippogriff">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Gorgon">
+		<alternateNames>
+			<alternateName>Medusa</alternateName>
+		</alternateNames
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gorgon">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Cthulhu">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Cthulhu">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Ghost">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Ghost">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Gargoyle">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gargoyle_(monster)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Minotaur">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Minotaur">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Chimera">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Chimera_(mythology)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Goblin">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Goblin">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Harpy">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Harpy">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Kraken">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Kraken">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Frankenstein's Monster">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Frankenstein%27s_monster">
+			<doc url="https://en.wikipedia.org/wiki/Golem_(Dungeons_%26_Dragons)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Grendel">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Grendel">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Behemoth">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Behemoth">
+		</docs>
+	</monsterType>
+	
+	<monsterType name="Leviathan">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Leviathan">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Basilisk">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Basilisk_(fantasy_role_play)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Cockatrice">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Cockatrice_(Dungeons_%26_Dragons)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Elemental">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Elemental_(Dungeons_%26_Dragons)">
+			<doc url="https://en.wikipedia.org/wiki/Invisible_stalker"/>
+			<doc url="https://en.wikipedia.org/wiki/Salamander_(Dungeons_%26_Dragons)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Gnoll">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gnoll">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Green Slime">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Green_slime_(Dungeons_%26_Dragons)">
+		</docs>
+	</monsterType>
+
+	<monsterType name="Manticore">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Manticore_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Ogre">
+		<alternateNames>
+			<alternateName>Medusa</alternateName>
+		</alternateNames
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Ogre_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Purple Worm">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Purple_worm"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Roc">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Roc_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Spectre">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Spectre_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Unicorn">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Unicorn_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Wight">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Wight_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Beholder">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Beholder_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Blink Dog">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Blink_dog"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Carrion Crawler">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Carrion_crawler"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Displacer Beast">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Displacer_beast"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Doppleganger">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Doppelganger_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Hell Hound">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Hell_hound_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Lich">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Lich_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Lizardfolk">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Lizardfolk"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Owlbear">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Owlbear"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Phase Spider">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Phase_spider"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Rust Monster">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Rust_monster"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Shadow">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Shadow_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Stirge">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Stirge"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Titan">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Titan_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Triton">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Triton_(Dungeons_%26_Dragons)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Blemmyes">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Headless_men"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Cynocephali">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Cynocephaly"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Clover">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Cloverfield"/>
+			<doc url="https://en.wikipedia.org/wiki/Clover_(creature)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Daimajin">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Daimajin_(1966_film)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Giant Spiders">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Eight_Legged_Freaks"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Gamera">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Barugon">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Barugon"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Guiron">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Guiron"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Gyaos">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Gyaos"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Jiger">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Jiger"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Viras">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Viras"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Zigra">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Gamera_vs._Zigra"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Ghidorah">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Ghidorah,_the_Three-Headed_Monster"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Stay Puft Marshmallow Man">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Mothra">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Mothra"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Rodan">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Rodan_(film)"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Rock Monster">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Rock_Monster"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Succubus">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Succubus"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="Incubus">
+		<docs>
+			<doc url="https://en.wikipedia.org/wiki/Incubus"/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	<monsterType name="">
+		<docs>
+			<doc url=""/>
+		</docs>
+	</monsterType>
+
+	https://en.wikipedia.org/wiki/List_of_films_featuring_giant_monsters
+	https://en.wikipedia.org/wiki/List_of_films_featuring_dinosaurs
+	https://en.wikipedia.org/wiki/List_of_monster_movies
+	
+	
+</monsterTypes>
