@@ -231,7 +231,7 @@ Dolphin
 Dong Zhongshu
 Doves as symbols
 Draco (constellation)
-Draconian
+Draconian (disambiguation)
 Dragon's Eye (symbol)
 Dragon (Dungeons & Dragons)
 Dragon (disambiguation)
@@ -255,7 +255,7 @@ Dragons (Middle-earth)
 Dragons (Pern)
 Dragons in Greek mythology
 Dragonslayer
-Dragoon
+Dragoon (disambiguation)
 Drangue
 Dream world (plot device)
 Drought
@@ -1058,7 +1058,6 @@ Template talk:Zoroastrianism
 Category:Articles to be split from May 2020
 Category:Fantasy
 Category:Fantasy creatures
-Category:Holy cities of Zoroastrianism
 Category:Use dmy dates from July 2020
 Category:Wikipedia articles with GND identifiers
 Category:Wikipedia articles with LCCN identifiers
@@ -1385,18 +1384,25 @@ Category:Use British English from April 2015
 Category:Use dmy dates from April 2019
 Portal:Lakes
 Bigfoot
+501(c) organization
+9-1-1
+A&E Networks
+Albert Ostman
 Almas (folklore)
 American Indian Quarterly
 American Museum of Natural History
 American black bear
 Americas
 Anecdotal
+Animal Planet
 Animal X (TV series)
+Ant colony
 Anthropology
 Anthropomorphization
 Ape
 Ape Canyon
 Ape Cognition and Conservation Initiative
+Arizona
 Arkansas
 Asia
 Australia (continent)
@@ -1408,7 +1414,6 @@ Bernard Heuvelmans
 Bigfoot: The Life and Times of a Legend
 Bigfoot (disambiguation)
 Bigfoot in popular culture
-Bigfoot trap
 Bipedal
 Bipedalism
 Birutė Galdikas
@@ -1441,8 +1446,10 @@ Crown group
 Cryptography
 Crystal Creek Reservoir
 Cultural anthropologist
+Cultural icon
 D.V.M.
 Daily News (New York)
+Dallas Observer
 Daris Swindler
 David Daegling
 Dermal ridges
@@ -1452,10 +1459,12 @@ Dian Fossey
 Dimensions
 Discovery Channel
 Diurnality
+Drum (container)
 Eastern gorilla
 Elgin Center
 Elk
 Elkanah Walker
+Environmental protection
 Environmentalism
 Esteban Sarmiento
 Eureka, California
@@ -1465,14 +1474,20 @@ FBI
 Facebook
 Family (biology)
 Fauna
+Finding Bigfoot
+Float plane
 Florida
 Folklore of the United States
 Folkloristics
 Forest
+Formic acid
+Fouke, Arkansas
 Fouke Monster
 Fox News
 Fox News Channel
 Fresno, California
+Gallup, New Mexico
+Garden of the Gods Wilderness
 GenBank
 Geneticists
 Geoffrey H. Bourne
@@ -1487,6 +1502,7 @@ Gigantopithecus
 Good faith
 Gorilla
 Gorilla–human last common ancestor
+Grand Canyon News
 Great Ape Project
 Great Apes Survival Partnership
 Great Lakes region
@@ -1502,7 +1518,10 @@ Happy Camp, California
 Harrison Lake
 Heavy (website)
 Herculean
+Herod, Illinois
+Hibernation
 History (American TV network)
+History Channel
 Hoaxes
 Hominid
 Hominidae
@@ -1511,7 +1530,7 @@ Homo erectus
 Homo heidelbergensis
 Homo sapiens
 Homo troglodytes
-Honey Island Swamp monster
+Honey Island Swamp Monster
 Houston
 Houston Chronicle
 Huffington Post
@@ -1536,8 +1555,11 @@ Jane Goodall
 Jeffrey Meldrum
 John R. Napier
 Journal of Biogeography
+KRDO-TV
 KSAT-TV
 Kinshasa Declaration on Great Apes
+Kitsap County, Washington
+LA Times
 Lakota people
 Language
 Les Stroud
@@ -1551,17 +1573,22 @@ Lodgepole pine
 Logging
 Lone Drøscher Nielsen
 Los Angeles Times
+Louisiana
 Lumberjack
 Lummi
+Lynn Rogers
 Lytton, British Columbia
 Mandible
 Mange
 Mansfield News Journal
 MeatEater
+Megafauna
 Meganthropus
 Merriam-Webster
 Michael Jordan
+Michigan
 Miner
+Missouri
 Mitochondrial DNA
 Mogollon Monster
 Momo the Monster
@@ -1595,6 +1622,7 @@ Northern California
 Occlusion (dentistry)
 Ohio
 Omnivorous
+Ontario
 Opossums
 Orangutan
 Orangutan–human last common ancestor
@@ -1621,16 +1649,19 @@ Plaster casts
 Podcast
 Popular culture
 Port Douglas, British Columbia
+Prank
 Primate
 Primates
 Primatologists
 Primatology
 Princeton University
 Proceedings of the Royal Society B
+Prospecting
 Protestant
 Racoons
 Relict (biology)
 Ribosomal
+Richmond Times
 Rick Dyer (Bigfoot)
 Robert Michael Pyle
 Russell Mittermeier
@@ -1645,6 +1676,7 @@ Science Friday
 Scientific journal
 Seattle Post-Intelligencer
 Sharon A. Hill
+Shawnee National Forest
 Sierra Nevada
 Six Rivers National Forest
 Skeptical Inquirer
@@ -1655,6 +1687,7 @@ Skunk ape
 Smithsonian Magazine
 Social distancing
 Southeastern United States
+Southern Illinois
 Species distribution modelling
 Spokane, Washington
 Spotted Elk
@@ -1663,6 +1696,7 @@ Sts'Ailes people
 Sumatran orangutan
 Survivalist
 Survivorman
+Tacoma, Washington
 Tapanuli orangutan
 Tapir
 Territorial marking
@@ -1672,9 +1706,12 @@ The Australian
 The Daily Beast
 The Herald Journal
 The Huffington Post
+The News Tribune
 The Oregonian
 The Reflector (Washington newspaper)
 The Scientist (magazine)
+The Seattle Times
+The Southern Illinoisan
 The Suburban Times
 The Washington Post
 The Week
@@ -1686,6 +1723,8 @@ Trail camera
 Trapping
 Trinity River (California)
 Tropics
+U.S. Department of Agriculture
+U.S. Forest Service
 U.S. Navy
 UC Berkeley
 USA Today
@@ -1697,12 +1736,18 @@ University at Buffalo
 University of California Press
 University of Chicago Press
 University of Colorado Boulder
+University of New Mexico
 University of Oklahoma Press
 University of Oxford
 Veterinarian
+Vice (magazine)
+Virginia
 WFMY-TV
+WWMT
 Washington (state)
+Washington National Guard
 Western gorilla
+Whitehall, New York
 William Bright
 William Charles Osman Hill
 Willie Smits
@@ -1718,6 +1763,7 @@ Zoologists
 Template:Apes
 Template talk:Apes
 Category:Apes
+Category:CS1 maint: discouraged parameter
 Category:Use mdy dates from April 2013
 The_Thing_(1982_film)
 /Film
@@ -2071,9 +2117,9 @@ The Philadelphia Experiment (film)
 The Resurrection of Broncho Billy
 The Texas Chain Saw Massacre
 The Thing (2011 film)
-The Thing (franchise)
 The Thing (video game)
 The Thing from Another World
+The Things (short story)
 The Twilight Zone
 The Verge
 The Vinyl Factory
@@ -2104,7 +2150,6 @@ Vampires (soundtrack)
 Variety (magazine)
 Varèse Sarabande
 Verna Fields
-Vice (magazine)
 Vietnam War
 Village of the Damned (1995 film)
 Village of the Damned (soundtrack)
@@ -2574,8 +2619,10 @@ Godzilla (1978 TV series)
 Godzilla (1998 film)
 Godzilla (2014 film)
 Godzilla (Blue Öyster Cult song)
+Godzilla (Eminem song)
 Godzilla (Main Theme)
 Godzilla (Marc Cerasini series)
+Godzilla (MonsterVerse)
 Godzilla (Scott Ciencin series)
 Godzilla (comics)
 Godzilla (disambiguation)
@@ -2691,6 +2738,7 @@ Legendary Pictures
 Life (magazine)
 Lily Franky
 Lion
+List of Godzilla Island episodes
 List of Godzilla games
 List of fictional locations in the Godzilla films
 Lizard
@@ -3206,6 +3254,7 @@ Frank Zappa
 Godzilla (2014 movie)
 Gold Key Comics
 Grass (1925 film)
+Hollow Earth
 Homer Simpson
 Homestead Records
 Indian Ocean
@@ -3227,6 +3276,7 @@ Kodak
 Kodiak Island
 Komodo (island)
 LP album
+Lee Tockar
 London
 Lorenzo Semple Jr.
 Macbeth (character)
@@ -3240,6 +3290,7 @@ Mary Parent
 Max Borenstein
 Merian C. Cooper
 Michael Dougherty
+Murray Spivack
 Music cassette
 Netflix
 New York City
@@ -3261,6 +3312,7 @@ Rick Baker
 Ruth Rose
 San Diego Comic-Con International
 Sci Fi Channel (United States)
+Scott McNeil
 Seth Green
 Shinichi Sekizawa
 Shoichi Hirose
@@ -3299,6 +3351,7 @@ Walking with Dinosaurs
 WarnerMedia
 Warner Bros.
 Warner Bros. Family Entertainment
+Warner Bros. Pictures
 Waterloo (album)
 Weta Digital
 Willis O'Brien
@@ -4058,7 +4111,6 @@ List of Cthulhu Mythos books
 List of Cthulhu Mythos characters
 List of Great Old Ones
 List of mountains in China
-Louisiana
 Lovecraft: A Biography
 Lovecraft: A Look Behind the Cthulhu Mythos
 Lovecraft: Fear of the Unknown
@@ -4126,7 +4178,6 @@ Sollasina cthulhu
 Sonia Greene
 South Park
 Speiredonia cthulhui
-Spelling pronunciation
 StarKid Productions
 Stephen King
 Steve Jackson Games
@@ -5039,6 +5090,7 @@ Heorogar
 Heorot
 Hrothgar
 Hrunting
+Hugh Magennis (scholar)
 Hygd
 Hygelac
 J.R.R. Tolkien
@@ -5267,7 +5319,6 @@ British Board of Film Classification
 Brooklyn Bridge
 Bryan Burk
 Burbank, California
-CBS Interactive
 Cahiers du Cinéma
 Central Park
 Chicago Sun-Times
@@ -5627,7 +5678,6 @@ Template:Kimiyoshi Yasuda
 Template talk:Kimiyoshi Yasuda
 Category:1966 films
 Category:Articles to be expanded from April 2017
-Category:CS1 maint: ref=harv
 Category:Japanese-language films
 Eight_Legged_Freaks
 2003 invasion of Iraq
@@ -5687,7 +5737,6 @@ Tom Noonan
 Trapdoor spider
 Valley West Mall (Arizona)
 Village Roadshow Pictures
-Warner Bros. Pictures
 Without a Paddle: Nature's Calling
 Template:Ellory Elkayem
 Template talk:Ellory Elkayem
@@ -5741,6 +5790,7 @@ Ultraman (1966 TV series)
 Yoshihiro Hamaguchi
 Template:Gamera
 Template talk:Gamera
+Category:CS1 maint: ref=harv
 Category:Gamera films
 Gamera_vs._Guiron
 Cannibalism
@@ -5904,6 +5954,7 @@ Diamond Select Toys
 Ectomobile
 Egon Spengler
 Extreme Ghostbusters
+FarSight Studios
 Fire Station No. 23 (Los Angeles, California)
 Firehouse, Hook & Ladder Company 8
 Funko
@@ -5970,6 +6021,8 @@ Sega Genesis
 Skyscraper
 Slimer
 Spacehunter: Adventures in the Forbidden Zone
+Stern (game company)
+Stern Pinball Arcade
 Sumerian religion
 The Earth Day Special
 The Real Ghostbusters
@@ -5986,7 +6039,7 @@ Zuul
 Template:Ghostbusters
 Template talk:Ghostbusters
 Category:Articles with specifically marked weasel-worded phrases from August 2015
-Category:Ghostbusters
+Category:Ghostbusters mass media
 Rodan_(film)
 Akio Kobori
 Contrails
@@ -6174,7 +6227,6 @@ Succubous
 Succubus (disambiguation)
 The Succubus (sculpture)
 Walter Mapes
-Wet dream
 Zohar
 Category:Articles lacking reliable references from April 2018
 Category:Articles with unsourced statements from November 2012
@@ -6412,6 +6464,7 @@ Lolicon
 Lollywood
 Looper (website)
 Lost film
+Love and Monsters (film)
 Low-budget film
 Luchador films
 Mafia comedy
@@ -6561,6 +6614,7 @@ Sound film
 South Seas genre
 Southern Gothic
 Soviet Parallel Cinema
+Space Jam: A New Legacy
 Space Western
 Space opera
 Spaghetti Western
